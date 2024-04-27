@@ -44,4 +44,5 @@ This script is designed to check files on a Windows machine against Common Vulne
 ## Developer Credits
 
 - The powerscan program was formulated by Hello Security LLC
+- Credit to https://github.com/CVEProject @CVEProject for providing the CVE Database used and referenced in the download links.
 
